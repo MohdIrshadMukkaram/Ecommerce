@@ -1,0 +1,6 @@
+{
+  "appliances": [
+    { "id": 1, "name": "refrigerator" },
+    { "id": 2, "name": "Microwave" }
+  ]
+}
